@@ -1,0 +1,6 @@
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Алена\Desktop\учеба\программная инженерия\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
